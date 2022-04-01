@@ -1,0 +1,33 @@
+{
+  "name": "@stdlib/math-base-special-sqrt",
+  "version": "0.0.0",
+  "description": "Compute the principal square root of a double-precision floating-point number.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-special-sqrt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "math.sqrt",
+    "sqrt",
+    "principal",
+    "square",
+    "root",
+    "power",
+    "number"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
