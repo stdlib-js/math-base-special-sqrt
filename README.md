@@ -63,6 +63,11 @@ The principal [square root][square-root] is defined as
 ## Usage
 
 ```javascript
+import sqrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sqrt@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-sqrt/tags). For example,
+
+```javascript
 import sqrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sqrt@v0.2.1-esm/index.mjs';
 ```
 
@@ -109,7 +114,7 @@ var v = sqrt( -4.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import sqrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sqrt@v0.2.1-esm/index.mjs';
+import sqrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sqrt@esm/index.mjs';
 
 var x;
 var i;
