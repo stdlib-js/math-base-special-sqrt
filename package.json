@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-sqrt",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Compute the principal square root of a double-precision floating-point number.",
   "license": "Apache-2.0",
   "author": {
@@ -40,11 +40,11 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-napi-unary": "^0.2.4",
+    "@stdlib/math-base-napi-unary": "^0.2.6",
     "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
+    "@stdlib/console-log-each-map": "^0.1.0",
     "@stdlib/constants-float64-eps": "^0.2.2",
     "@stdlib/constants-float64-ninf": "^0.2.2",
     "@stdlib/constants-float64-pinf": "^0.2.2",
